@@ -1,0 +1,46 @@
+.container-fluid{
+    background-color: grey;
+}
+.box{
+    width: 100px;
+    height: 600px;
+    background-color:white;
+}
+.top{
+    margin-top: 10px;
+    height: 80px;
+   /*  background-color: lightblue; */
+    display: flex;
+}
+
+
+.fecha{
+    display: flex;
+    justify-content: flex-end;
+   
+}
+
+
+.mid{
+   height: 410px;
+   background-image: url('http://lorempixel.com/635/230/');
+   background-size: cover;
+  /* background-position: center; */
+  margin: 0px;
+}
+
+.mida{
+    height: 410px;
+    background-image: url('http://lorempixel.com/634/230/');
+    background-size: cover;
+   /* background-position: center; */
+   margin: 0px;
+ }
+ .midb{
+    height: 410px;
+    background-image: url('http://lorempixel.com/636/230/');
+    background-size: cover;
+   /* background-position: center; */
+   margin: 0px;
+ }
+  
